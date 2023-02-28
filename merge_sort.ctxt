@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=merge_sort
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arr\ s\ e
+comment2.target=java.lang.Object[]\ mergeSort(double[],\ int,\ int)
+comment3.params=left\ right\ arr
+comment3.target=java.lang.Object[]\ mergee(java.lang.Object[],\ java.lang.Object[],\ double[])
+comment4.params=left\ right\ arr
+comment4.target=java.lang.Object[]\ merge(java.lang.Object[],\ java.lang.Object[],\ double[])
+comment5.params=l\ h\ arr
+comment5.target=void\ simpl_sort(int,\ int,\ double[])
+numComments=6
